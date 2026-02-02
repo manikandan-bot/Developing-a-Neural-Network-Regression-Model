@@ -7,7 +7,8 @@ To develop a neural network regression model for the given dataset.
 Explain the problem statement
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1276" height="826" alt="Screenshot 2026-02-02 094505" src="https://github.com/user-attachments/assets/f887f0ca-cd2f-4815-8f7e-f4d7c9e43ac3" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -44,9 +45,10 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
 
-### Register Number:
+### Name:MANIKANDAN T
+
+### Register Number:212224110037
 
 ```python
 class NeuralNet(nn.Module):
